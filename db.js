@@ -1,5 +1,6 @@
 const mongoose=require("mongoose");
-const mongoUrl='mongodb://localhost:27017/'
+//const mongoUrl='mongodb://localhost:27017/';
+const mongoUrl='mongodb+srv://hiteshbirla15:HiG0BRxSXDYjHQfL@hotel.hwmw4gw.mongodb.net/'
 mongoose.connect(mongoUrl
 )
 
